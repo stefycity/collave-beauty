@@ -1,0 +1,1950 @@
+{
+ "beauty": [
+  {
+   "id": "face",
+   "name": "Face",
+   "items": [
+    {
+     "id": "collabalance-toner",
+     "name": "CollaBalance Toner",
+     "category": "face",
+     "subtitle": "Balancing & refreshing toner",
+     "size": "50 ml",
+     "price": 34.9,
+     "image": "/boutique/collabalance-toner-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Refreshes",
+        "Balances",
+        "Preps"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Caffeine",
+        "Panthenol",
+        "Hyaluronic acid"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collabright-cream",
+     "name": "CollaBright Cream",
+     "category": "face",
+     "subtitle": "Cream for an even, radiant complexion",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collabright-cream-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Brightens",
+        "Evens",
+        "Hydrates"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Green tea",
+        "Apple stem cells",
+        "Vitamin E"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaclean-mousse",
+     "name": "CollaClean Mousse",
+     "category": "face",
+     "subtitle": "Gentle cleansing mousse",
+     "size": "150 ml",
+     "price": 31.9,
+     "image": "/boutique/collaclean-mousse-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Cleanses",
+        "Softens",
+        "Balances"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Aloe vera",
+        "Panthenol",
+        "Niacinamide"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaclear-gel",
+     "name": "CollaClear Gel",
+     "category": "face",
+     "subtitle": "Active gel for blemish-prone skin",
+     "size": "30 ml",
+     "price": 62.9,
+     "image": "/boutique/collaclear-gel-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Clears",
+        "Balances",
+        "Mattifies"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Salicylic acid",
+        "Zinc PCA",
+        "Chitosan"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaguard-spf-50-day-cream",
+     "name": "CollaGuard SPF 50 Day Cream",
+     "category": "face",
+     "subtitle": "Moisturizing day cream SPF 50",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collaguard-spf-50-day-cream-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Protects",
+        "Hydrates",
+        "Defends"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Apple stem cells",
+        "Aloe vera",
+        "Avobenzone"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaintense-serum",
+     "name": "CollaIntense Serum",
+     "category": "face",
+     "subtitle": "Intensive hydrating serum",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collaintense-serum-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Hydrates",
+        "Plumps",
+        "Smooths"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Hyaluronic acid",
+        "Sodium hyaluronate",
+        "Ginger extract"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collakiss-lip-balm",
+     "name": "CollaKiss Lip Balm",
+     "category": "face",
+     "subtitle": "Nourishing lip balm",
+     "size": "15 ml",
+     "price": null,
+     "image": "/boutique/collakiss-lip-balm-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Nourishes",
+        "Protects",
+        "Softens"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Vitamin E",
+        "Beeswax",
+        "Coconut oil"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collalift-eye-gel",
+     "name": "CollaLift Eye Gel",
+     "category": "face",
+     "subtitle": "Firming eye gel",
+     "size": "30 ml",
+     "price": 77.9,
+     "image": "/boutique/collalift-eye-gel-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Lifts",
+        "Depuffs",
+        "Refreshes"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Caffeine",
+        "Panthenol",
+        "Hyaluronic acid"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collalift-face-and-neck-gel",
+     "name": "CollaLift Face and Neck Gel",
+     "category": "face",
+     "subtitle": "Antioxidant face & neck gel",
+     "size": "30 ml",
+     "price": 79.9,
+     "image": "/boutique/collalift-face-and-neck-gel-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Firms",
+        "Protects",
+        "Brightens"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Vitamin C",
+        "Hibiscus",
+        "Moss stem cells"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collapure-zinc-serum",
+     "name": "CollaPure Zinc Serum",
+     "category": "face",
+     "subtitle": "Balancing zinc serum",
+     "size": "30 ml",
+     "price": 77.9,
+     "image": "/boutique/collapure-zinc-serum-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Purifies",
+        "Balances",
+        "Refines"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Zinc PCA",
+        "Niacinamide",
+        "Salicylic acid"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarefresh-aloe-vera-spray",
+     "name": "CollaRefresh Aloe Vera Spray",
+     "category": "face",
+     "subtitle": "Refreshing face spray SPF 30",
+     "size": "50 ml",
+     "price": 44.9,
+     "image": "/boutique/collarefresh-aloe-vera-spray-spf-30-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Refreshes",
+        "Hydrates",
+        "Protects"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Aloe leaf extract",
+        "Bamboo extract",
+        "Avobenzone"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarenew-retinol-serum",
+     "name": "CollaRenew Retinol Serum",
+     "category": "face",
+     "subtitle": "Retinol night serum",
+     "size": "30 ml",
+     "price": 79.9,
+     "image": "/boutique/collarenew-retinol-serum-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Smooths",
+        "Renews",
+        "Firms"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Retinol",
+        "Nettle extract",
+        "Vitamin E"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hair",
+   "name": "Hair",
+   "items": [
+    {
+     "id": "collahair-booster",
+     "name": "CollaHair Booster",
+     "category": "hair",
+     "subtitle": "Intensive hair-strengthening serum",
+     "size": "30 ml",
+     "price": 63.9,
+     "image": "/boutique/collahair-booster-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Strengthens",
+        "Nourishes",
+        "Revives"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Aloe vera",
+        "Ginger extract",
+        "Sodium hyaluronate"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-leave-in-conditioner-spray",
+     "name": "CollaHair Leave-In Conditioner Spray",
+     "category": "hair",
+     "subtitle": "Leave-in conditioner spray",
+     "size": "50 ml",
+     "price": 34.9,
+     "image": "/boutique/collahair-leave-in-conditioner-spray-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Strengthens",
+        "Softens",
+        "Detangles"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Keratin",
+        "Mineral complex",
+        "Polyquaternium-37"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-shampoo",
+     "name": "CollaHair Shampoo",
+     "category": "hair",
+     "subtitle": "Gentle sulfate-free shampoo",
+     "size": "200 ml",
+     "price": 44.9,
+     "image": "/boutique/collahair-shampoo-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Cleanses",
+        "Strengthens",
+        "Shines"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Panthenol",
+        "Coco betaine",
+        "Olive lipids"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "name": "Body",
+   "items": [
+    {
+     "id": "collacalm-panthenol-gel",
+     "name": "CollaCalm Panthenol Gel",
+     "category": "body",
+     "subtitle": "Soothing panthenol gel",
+     "size": "30 ml",
+     "price": 44.9,
+     "image": "/boutique/collacalm-panthenol-gel-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Soothes",
+        "Hydrates",
+        "Restores"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Panthenol",
+        "Green tea",
+        "Apple stem cells"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collapure-body-cream",
+     "name": "CollaPure Body Cream",
+     "category": "body",
+     "subtitle": "Balancing cream for blemish-prone skin",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collapure-body-cream-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Clears",
+        "Balances",
+        "Mattifies"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Salicylic acid",
+        "Zinc PCA",
+        "Nettle extract"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collasculpt-caffeine-body-gel",
+     "name": "CollaSculpt Caffeine Body Gel",
+     "category": "body",
+     "subtitle": "Firming body gel with caffeine & collagen",
+     "size": "150 ml",
+     "price": 59.9,
+     "image": "/boutique/collasculpt-caffeine-body-gel-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Sculpts",
+        "Tones",
+        "Smooths"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Caffeine",
+        "Hyaluronic acid",
+        "Sodium hyaluronate"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collasoft-body-serum",
+     "name": "CollaSoft Body Serum",
+     "category": "body",
+     "subtitle": "Light, velvety body serum",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collasoft-body-serum-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Softens",
+        "Hydrates",
+        "Smooths"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Panthenol",
+        "Aloe vera",
+        "Nettle extract"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "men",
+   "name": "For Men",
+   "items": [
+    {
+     "id": "collaguard-spf-50-day-cream-men",
+     "name": "CollaGuard SPF 50 Day Cream",
+     "category": "men",
+     "subtitle": "Day cream SPF 50 for men",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collaguard-spf-50-day-cream-men-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Protects",
+        "Hydrates",
+        "Defends"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Apple stem cells",
+        "Aloe vera",
+        "Avobenzone"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-booster-men",
+     "name": "CollaHair Booster",
+     "category": "men",
+     "subtitle": "Hair-strengthening serum for men",
+     "size": "30 ml",
+     "price": 63.9,
+     "image": "/boutique/collahair-booster-men-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Strengthens",
+        "Revives",
+        "Nourishes"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Aloe vera",
+        "Ginger extract",
+        "Sodium hyaluronate"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarefresh-spf-30-aloe-vera-spray-men",
+     "name": "CollaRefresh SPF 30 Aloe Vera Spray",
+     "category": "men",
+     "subtitle": "Aloe vera face spray SPF 30",
+     "size": "50 ml",
+     "price": 44.9,
+     "image": "/boutique/collarefresh-spf-30-aloe-vera-spray-men-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Refreshes",
+        "Hydrates",
+        "Protects"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Aloe leaf extract",
+        "Bamboo extract",
+        "Avobenzone"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collashave-panthenol-gel-men",
+     "name": "CollaShave Panthenol Gel",
+     "category": "men",
+     "subtitle": "Soothing after-shave gel",
+     "size": "30 ml",
+     "price": 40.9,
+     "image": "/boutique/collashave-panthenol-gel-men-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Soothes",
+        "Hydrates",
+        "Restores"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Panthenol",
+        "Green tea",
+        "Apple stem cells"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drinks",
+   "name": "Collagen Drinks",
+   "items": [
+    {
+     "id": "colladrink-collagen-powder",
+     "name": "CollaDrink Collagen Powder",
+     "category": "drinks",
+     "subtitle": "Daily collagen powder",
+     "size": "300 g",
+     "price": 79.9,
+     "image": "/boutique/colladrink-beauty-collagen-powder-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Skin",
+        "Hair",
+        "Nails"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Collagen",
+        "ORAFTI® Synergy",
+        "Folic acid"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "colladrink-collagen-powder-sachets",
+     "name": "CollaDrink Collagen Powder (Sachets)",
+     "category": "drinks",
+     "subtitle": "Collagen powder in daily sachets",
+     "size": "30 × 10 g",
+     "price": 90,
+     "image": "/boutique/colladrink-beauty-collagen-sachets-2026.webp",
+     "details": [
+      {
+       "label": "Benefits",
+       "items": [
+        "Practical",
+        "Precise",
+        "Portable"
+       ]
+      },
+      {
+       "label": "Key actives",
+       "items": [
+        "Collagen",
+        "ORAFTI® Synergy",
+        "Folic acid"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "drinks": [
+  {
+   "id": "classic",
+   "name": "The Old Classic",
+   "items": [
+    {
+     "id": "almond-latte",
+     "name": "Almond Latte",
+     "category": "classic",
+     "subtitle": "Soft almond sweetness",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/almond-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Almond syrup · 20 ml",
+        "Fresh milk · 200 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "americano",
+     "name": "Americano",
+     "category": "classic",
+     "subtitle": "Long, smooth and light",
+     "size": "150 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/americano.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Hot water · 120 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "cappuccino",
+     "name": "Cappuccino",
+     "category": "classic",
+     "subtitle": "A creamy, velvety classic",
+     "size": "250 ml",
+     "price": 3.5,
+     "image": "/menu/beverages/cappuccino.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Fresh milk · 180 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "caramel-latte",
+     "name": "Caramel Latte",
+     "category": "classic",
+     "subtitle": "Sweet caramel comfort",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/caramel-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Caramel syrup · 20 ml",
+        "Fresh milk · 200 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "coconut-latte",
+     "name": "Coconut Latte",
+     "category": "classic",
+     "subtitle": "Silky and tropical",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/coconut-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Coconut syrup · 20 ml",
+        "Fresh milk · 200 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "decaf-espresso",
+     "name": "Decaf Espresso",
+     "category": "classic",
+     "subtitle": "All the taste, no caffeine",
+     "size": "30 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/decaf-espresso.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Decaf espresso · 7 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "double-espresso",
+     "name": "Double Espresso",
+     "category": "classic",
+     "subtitle": "Twice the intensity",
+     "size": "60 ml",
+     "price": 3.2,
+     "image": "/menu/beverages/double-espresso.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "espresso",
+     "name": "Espresso",
+     "category": "classic",
+     "subtitle": "Short, bold and pure",
+     "size": "30 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/espresso.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Pellini espresso · 7 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "espresso-macchiato",
+     "name": "Espresso Macchiato",
+     "category": "classic",
+     "subtitle": "Espresso with a touch of foam",
+     "size": "50 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/espresso-macchiato.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Milk foam · 20 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hazelnut-latte",
+     "name": "Hazelnut Latte",
+     "category": "classic",
+     "subtitle": "Warm and nutty",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/hazelnut-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Hazelnut syrup · 20 ml",
+        "Fresh milk · 200 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "latte",
+     "name": "Latte",
+     "category": "classic",
+     "subtitle": "Soft and milky",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Fresh milk · 220 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mocha",
+     "name": "Mocha",
+     "category": "classic",
+     "subtitle": "Coffee meets chocolate",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/mocha.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Espresso · 7 g",
+        "Cocoa · 15 g",
+        "Chocolate syrup · 10 ml",
+        "Fresh milk · 180 ml"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "tea",
+     "name": "Tea",
+     "category": "classic",
+     "subtitle": "Calm in a cup",
+     "size": "200 ml",
+     "price": 3.4,
+     "image": "/menu/beverages/tea.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Pellini tea bag",
+        "Hot water · 200 ml",
+        "Honey or sugar"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iced",
+   "name": "Iced Lattes",
+   "items": [
+    {
+     "id": "freddo-cappuccino",
+     "name": "Freddo Cappuccino",
+     "category": "iced",
+     "subtitle": "The cold-foam classic",
+     "size": "250 ml",
+     "price": 4.2,
+     "image": "/menu/beverages/freddo-cappuccino.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Low-fat milk (0.7%) · 120 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "freddo-espresso",
+     "name": "Freddo Espresso",
+     "category": "iced",
+     "subtitle": "Shaken, strong and cold",
+     "size": "160 ml",
+     "price": 3.5,
+     "image": "/menu/beverages/freddo-espresso.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Water · 60 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-almond-latte",
+     "name": "Iced Almond Latte",
+     "category": "iced",
+     "subtitle": "Almond, chilled",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-almond-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Almond syrup · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-caramel-latte",
+     "name": "Iced Caramel Latte",
+     "category": "iced",
+     "subtitle": "Caramel on ice",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-caramel-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Caramel syrup · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-coconut-latte",
+     "name": "Iced Coconut Latte",
+     "category": "iced",
+     "subtitle": "A tropical breeze",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-coconut-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Coconut syrup · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-hazelnut-latte",
+     "name": "Iced Hazelnut Latte",
+     "category": "iced",
+     "subtitle": "Nutty and refreshing",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-hazelnut-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Hazelnut syrup · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-latte",
+     "name": "Iced Latte",
+     "category": "iced",
+     "subtitle": "Cool and creamy",
+     "size": "250 ml",
+     "price": 4.2,
+     "image": "/menu/beverages/iced-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Fresh milk · 150 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mango-latte",
+     "name": "Iced Mango Latte",
+     "category": "iced",
+     "subtitle": "Sunny and fruity",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-mango-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Mango syrup or purée · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mocha",
+     "name": "Iced Mocha",
+     "category": "iced",
+     "subtitle": "Chocolate, chilled",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-mocha.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Cocoa · 15 g",
+        "Chocolate syrup · 10 ml",
+        "Fresh milk · 100 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-strawberry-latte",
+     "name": "Iced Strawberry Latte",
+     "category": "iced",
+     "subtitle": "Pink and playful",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-strawberry-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Double espresso · 14 g",
+        "Strawberry syrup or purée · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "matcha",
+   "name": "Matcha & Nescafé",
+   "items": [
+    {
+     "id": "black-frappe",
+     "name": "Black Frappe",
+     "category": "matcha",
+     "subtitle": "Whipped, black and bold",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/black-frappe.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Nescafé · 14 g",
+        "Dark chocolate syrup · 20 ml",
+        "Water · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mango-matcha-latte",
+     "name": "Iced Mango Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Green and sunny",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-mango-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Matcha · 14 g",
+        "Mango syrup or purée · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-matcha-latte",
+     "name": "Iced Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Calm focus & a fresh glow",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Matcha · 14 g",
+        "Fresh milk · 150 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-matcha-latte-with-banana-and-strawberry",
+     "name": "Iced Matcha Latte with Banana & Strawberry",
+     "category": "matcha",
+     "subtitle": "Fruity and creamy",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-matcha-latte-with-banana-and-strawberry.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Matcha · 14 g",
+        "Banana & strawberry purée · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-strawberry-matcha-latte",
+     "name": "Iced Strawberry Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Green meets pink",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-strawberry-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Matcha · 14 g",
+        "Strawberry syrup or purée · 20 ml",
+        "Fresh milk · 120 ml",
+        "Ice"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "nescafe-mocha",
+     "name": "Nescafé Mocha",
+     "category": "matcha",
+     "subtitle": "A chocolate frappe",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/nescafe-mocha.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Nescafé · 14 g",
+        "Dark chocolate syrup · 20 ml",
+        "Brown sugar · 1 tbsp",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-frappe",
+     "name": "White Frappe",
+     "category": "matcha",
+     "subtitle": "Whipped, white and cold",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/white-frappe.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Nescafé · 14 g",
+        "Brown sugar · 1 tbsp",
+        "Fresh milk · 120 ml",
+        "Ice · 80–100 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "smoothie",
+   "name": "Smoothies & Lemonades",
+   "items": [
+    {
+     "id": "blueberry-lemonade",
+     "name": "Blueberry Lemonade",
+     "category": "smoothie",
+     "subtitle": "Berry bright",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/blueberry-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Blueberry purée · 30 ml",
+        "Lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 150 ml",
+        "Ice · 80 g",
+        "Blueberries to garnish"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "classic-lemonade",
+     "name": "Classic Lemonade",
+     "category": "smoothie",
+     "subtitle": "Fresh and zesty",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/classic-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Fresh lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 150 ml",
+        "Ice · 80 g",
+        "Lime slices"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mango-lemonade",
+     "name": "Mango Lemonade",
+     "category": "smoothie",
+     "subtitle": "Sunshine in a glass",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/mango-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Mango purée · 30 ml",
+        "Lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 150 ml",
+        "Ice · 80 g",
+        "Mango cubes to garnish"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mango-smoothie",
+     "name": "Mango Smoothie",
+     "category": "smoothie",
+     "subtitle": "Tropical and smooth",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/mango-smoothie.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Mango purée · 30 ml",
+        "Mango syrup · 20 ml",
+        "Fresh or frozen mango · 50 g",
+        "Cold milk · 80 ml",
+        "Ice · 70–80 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mint-lemonade",
+     "name": "Mint Lemonade",
+     "category": "smoothie",
+     "subtitle": "Cool and minty",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/mint-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Fresh mint · 5 g",
+        "Lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 150 ml",
+        "Ice · 80 g",
+        "Mint leaves to garnish"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "peach-smoothie",
+     "name": "Peach Smoothie",
+     "category": "smoothie",
+     "subtitle": "Soft summer peach",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/peach-smoothie.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Peach purée · 80 ml",
+        "Peach · 50 g",
+        "Cold water · 40 ml",
+        "Ice · 80 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-banana-smoothie",
+     "name": "Strawberry & Banana Smoothie",
+     "category": "smoothie",
+     "subtitle": "Creamy energy",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-and-banana-smoothie.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Banana · 50 g",
+        "Strawberries · 50 g",
+        "Strawberry purée · 60 ml",
+        "Cold water · 40 ml",
+        "Ice · 80 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-mango-lemonade",
+     "name": "Strawberry & Mango Lemonade",
+     "category": "smoothie",
+     "subtitle": "Fruity and fizzy",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/strawberry-and-mango-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Strawberry purée · 15 ml",
+        "Mango purée · 15 ml",
+        "Lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 120 ml",
+        "Ice · 80 g",
+        "Mango & strawberry to garnish"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-mango-smoothie",
+     "name": "Strawberry & Mango Smoothie",
+     "category": "smoothie",
+     "subtitle": "The best of both",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-and-mango-smoothie.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Strawberry purée · 40 ml",
+        "Mango purée · 40 ml",
+        "Strawberries · 25 g",
+        "Mango · 25 g",
+        "Cold water · 40 ml",
+        "Ice · 70–80 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-lemonade",
+     "name": "Strawberry Lemonade",
+     "category": "smoothie",
+     "subtitle": "Pink and refreshing",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/strawberry-lemonade.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Strawberry purée · 30 ml",
+        "Lemon juice · 15 ml",
+        "Sugar syrup · 10 ml",
+        "Sparkling water · 150 ml",
+        "Ice · 80 g",
+        "Strawberries to garnish"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-smoothie",
+     "name": "Strawberry Smoothie",
+     "category": "smoothie",
+     "subtitle": "A vitamin C glow",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-smoothie.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Strawberry purée · 30 ml",
+        "Strawberry syrup · 20 ml",
+        "Fresh or frozen strawberries · 50 g",
+        "Cold milk · 80 ml",
+        "Ice · 70–80 g"
+       ]
+      },
+      {
+       "label": "Options",
+       "items": [
+        "Collavé Beauty Collagen · 10 g · On us",
+        "Alternative milk · 120 ml · +€0.90",
+        "Extra syrup or purée · 20 ml · +€0.90"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "waters",
+   "name": "Waters",
+   "items": [
+    {
+     "id": "thai-coco-coconut-water",
+     "name": "Thai Coco Coconut Water",
+     "category": "waters",
+     "subtitle": "100% coconut water, never from concentrate",
+     "size": "280 ml",
+     "price": 3,
+     "image": "/menu/beverages/thai-coco-coconut-water.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "100% coconut water"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "thai-coco-organic-coconut-water",
+     "name": "Thai Coco Organic Coconut Water",
+     "category": "waters",
+     "subtitle": "Organic, no added sugar",
+     "size": "330 ml",
+     "price": 3,
+     "image": "/menu/beverages/thai-coco-organic-coconut-water.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Organic coconut water"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-water-sparkling",
+     "name": "White Water Sparkling",
+     "category": "waters",
+     "subtitle": "Sparkling mineral water, pH 9.56",
+     "size": "330 ml",
+     "price": 2.2,
+     "image": "/menu/beverages/white-water-sparkling.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Sparkling mineral water"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-water-still",
+     "name": "White Water Still",
+     "category": "waters",
+     "subtitle": "Natural mineral water, pH 9.56",
+     "size": "330 ml",
+     "price": 1.9,
+     "image": "/menu/beverages/white-water-still.jpg",
+     "details": [
+      {
+       "label": "What's inside",
+       "items": [
+        "Natural mineral water"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

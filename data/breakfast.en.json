@@ -1,0 +1,429 @@
+[
+ {
+  "id": "bowls",
+  "name": "Collagen Bowls",
+  "items": [
+   {
+    "id": "banana-pear-harmony",
+    "name": "Banana Pear Harmony™",
+    "category": "bowls",
+    "subtitle": "Collagen breakfast with banana and pear (or apple).",
+    "size": "370 kcal",
+    "price": null,
+    "image": "/menu/breakfast/banana-pear-harmony.jpg",
+    "details": [
+     {
+      "label": "Ingredients",
+      "items": [
+       "Yogurt 3.6% · 200 g",
+       "Collavé Beauty Mix · 10 g",
+       "Chia seeds · 6 g",
+       "Ground flaxseed · 6 g",
+       "Cashews & walnuts · 10 g",
+       "Honey · 8 g",
+       "Banana · 100 g",
+       "Pear (or apple) · 70 g"
+      ]
+     },
+     {
+      "label": "Per serving",
+      "items": [
+       "Protein · 18 g",
+       "Fibre · 8 g",
+       "Fat · 16 g",
+       "Carbohydrates · 40 g"
+      ]
+     },
+     {
+      "label": "Why choose it?",
+      "items": [
+       "Energy and concentration.",
+       "Fibre for good digestion.",
+       "A combination of vitamins, minerals and antioxidants.",
+       "Natural sweetness and a delicate texture."
+      ]
+     }
+    ]
+   },
+   {
+    "id": "berry-radiance",
+    "name": "Berry Radiance™",
+    "category": "bowls",
+    "subtitle": "Collagen breakfast with strawberries and blueberries.",
+    "size": "335 kcal",
+    "price": null,
+    "image": "/menu/breakfast/berry-radiance.jpg",
+    "details": [
+     {
+      "label": "Ingredients",
+      "items": [
+       "Yogurt 3.6% · 200 g",
+       "Collavé Beauty Mix · 10 g",
+       "Chia seeds · 6 g",
+       "Ground flaxseed · 6 g",
+       "Cashews & walnuts · 10 g",
+       "Honey · 8 g",
+       "Strawberries · 100 g",
+       "Blueberries · 40 g"
+      ]
+     },
+     {
+      "label": "Per serving",
+      "items": [
+       "Protein · 18 g",
+       "Fibre · 8 g",
+       "Fat · 15 g",
+       "Carbohydrates · 31 g"
+      ]
+     },
+     {
+      "label": "Why choose it?",
+      "items": [
+       "Supports collagen formation for normal skin function.",
+       "Antioxidant protection.",
+       "Supports the gut and microbiome.",
+       "Supports digestive balance.",
+       "A delicious, refreshing seasonal breakfast."
+      ]
+     }
+    ]
+   },
+   {
+    "id": "golden-glow",
+    "name": "Golden Glow™",
+    "category": "bowls",
+    "subtitle": "Collagen breakfast with peaches and apricots.",
+    "size": "348 kcal",
+    "price": null,
+    "image": "/menu/breakfast/golden-glow.jpg",
+    "details": [
+     {
+      "label": "Ingredients",
+      "items": [
+       "Yogurt 3.6% · 200 g",
+       "Collavé Beauty Mix · 10 g",
+       "Chia seeds · 6 g",
+       "Ground flaxseed · 6 g",
+       "Cashews & walnuts · 10 g",
+       "Honey · 8 g",
+       "Peaches · 100 g",
+       "Apricots · 60 g"
+      ]
+     },
+     {
+      "label": "Per serving",
+      "items": [
+       "Protein · 19 g",
+       "Fibre · 6 g",
+       "Fat · 15 g",
+       "Carbohydrates · 34 g"
+      ]
+     },
+     {
+      "label": "Why choose it?",
+      "items": [
+       "Supports skin health with vitamin A and antioxidants.",
+       "Provides energy and a feeling of fullness.",
+       "Rich in vitamins and minerals from seasonal fruit.",
+       "Delicate, sweet taste and creamy texture."
+      ]
+     }
+    ]
+   },
+   {
+    "id": "pure-balance",
+    "name": "Pure Balance™",
+    "category": "bowls",
+    "subtitle": "Collagen breakfast with apple and pear.",
+    "size": "366 kcal",
+    "price": null,
+    "image": "/menu/breakfast/pure-balance.jpg",
+    "details": [
+     {
+      "label": "Ingredients",
+      "items": [
+       "Yogurt 3.6% · 200 g",
+       "Collavé Beauty Mix · 10 g",
+       "Chia seeds · 6 g",
+       "Ground flaxseed · 6 g",
+       "Cashews & walnuts · 10 g",
+       "Honey · 8 g",
+       "Apple · 90 g",
+       "Pear · 70 g"
+      ]
+     },
+     {
+      "label": "Per serving",
+      "items": [
+       "Protein · 18 g",
+       "Fibre · 8 g",
+       "Fat · 16 g",
+       "Carbohydrates · 39 g"
+      ]
+     },
+     {
+      "label": "Why choose it?",
+      "items": [
+       "Supports the body's balance during colder months.",
+       "Fibre for good digestion.",
+       "A combination of vitamins, minerals and antioxidants.",
+       "A classic, satisfying taste."
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "brownies",
+  "name": "Brownies & Mountains",
+  "items": [
+   {
+    "id": "baileys-and-pecan-brownie",
+    "name": "Baileys & Pecan Brownie",
+    "category": "brownies",
+    "subtitle": "A firmer texture, sprinkled with Maldon salt that brings out the chocolate; Baileys adds a creamy note.",
+    "size": "1 piece",
+    "price": 4,
+    "image": "/menu/breakfast/baileys-and-pecan-brownie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "Dark chocolate",
+       "White sugar",
+       "Brown sugar",
+       "Cocoa",
+       "Baileys",
+       "Pecans"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy",
+       "Nuts"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "banoffee-brownie",
+    "name": "Banoffee Brownie",
+    "category": "brownies",
+    "subtitle": "Salted caramel and banana, with plenty of dark chocolate and butter; a chewier texture.",
+    "size": "1 piece",
+    "price": 3.7,
+    "image": "/menu/breakfast/banoffee-brownie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "Dark chocolate",
+       "Brown sugar",
+       "Caramel",
+       "Banana"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cheesecake-brownie",
+    "name": "Cheesecake Brownie",
+    "category": "brownies",
+    "subtitle": "A soft texture; the cream cheese balances the sweetness of the chocolate.",
+    "size": "1 piece",
+    "price": 3.4,
+    "image": "/menu/breakfast/cheesecake-brownie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "Dark chocolate",
+       "White sugar",
+       "Cream cheese"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "classic-brownie",
+    "name": "Classic Brownie",
+    "category": "brownies",
+    "subtitle": "Classic brownie with two kinds of chocolate: milk and dark.",
+    "size": "1 piece",
+    "price": 3,
+    "image": "/menu/breakfast/classic-brownie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Flour",
+       "Eggs",
+       "Butter",
+       "Chocolate",
+       "White sugar",
+       "Cocoa"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "coconut-and-macadamia-blondie",
+    "name": "Coconut & Macadamia Blondie",
+    "category": "brownies",
+    "subtitle": "Blondie with white chocolate, coconut and macadamia.",
+    "size": "1 piece",
+    "price": 4,
+    "image": "/menu/breakfast/coconut-and-macadamia-blondie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "White chocolate",
+       "Brown sugar",
+       "Coconut",
+       "Macadamia"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy",
+       "Nuts"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hazelnut-goldie",
+    "name": "Hazelnut Goldie",
+    "category": "brownies",
+    "subtitle": "Goldie with toffee caramel, condensed milk and hazelnuts; a milky caramel taste and a chewy texture.",
+    "size": "1 piece",
+    "price": 4.3,
+    "image": "/menu/breakfast/hazelnut-goldie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "Caramel chocolate",
+       "Brown sugar"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy",
+       "Nuts"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "lemon-blondie",
+    "name": "Lemon Blondie",
+    "category": "brownies",
+    "subtitle": "Blondie with white chocolate, lemon juice and lemon zest; fresh and chewy.",
+    "size": "1 piece",
+    "price": 3.7,
+    "image": "/menu/breakfast/lemon-blondie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "White chocolate",
+       "Brown sugar",
+       "Lemon"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "strawberry-blondie",
+    "name": "Strawberry Blondie",
+    "category": "brownies",
+    "subtitle": "Blondie with strawberry-flavoured chocolate; a soft, chewy texture.",
+    "size": "1 piece",
+    "price": 4,
+    "image": "/menu/breakfast/strawberry-blondie.jpg",
+    "details": [
+     {
+      "label": "What's inside",
+      "items": [
+       "Butter",
+       "Eggs",
+       "Flour",
+       "Strawberry chocolate",
+       "Brown sugar"
+      ]
+     },
+     {
+      "label": "Allergens",
+      "items": [
+       "Gluten",
+       "Eggs",
+       "Dairy"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

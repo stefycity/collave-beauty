@@ -1,26 +1,384 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-cream: #fbf7f2;
+  --color-butter: #fdf8e8;
+  --color-sand: #dad2c6;
+  --color-wine: #7a1f27; /* wine red from the ribbons: all buttons */
+  --color-mocha: #50301b; /* dark brown accent, used slightly transparent with white text */
+  --color-mist: #e6e7e7;
+  --color-ink: #2b2825;
+  --color-soft: #6a645d;
+  --color-line: #d8d2c8;
+  --font-sans: var(--font-nunito), system-ui, sans-serif;
+  /* A crisp grotesk for bold statements (system font, nothing to download). */
+  --font-grotesk: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --text-display: clamp(1.625rem, 1.2rem + 1.9vw, 2.75rem);
+  --text-heading: clamp(1.5rem, 1.3rem + 0.8vw, 2rem);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 3.5rem;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  background-color: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-weight: 300; /* thin and minimal throughout */
+  overflow-x: clip;
+}
+:focus-visible {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 3px;
+}
+.rail {
+  scrollbar-width: none;
+}
+.rail::-webkit-scrollbar {
+  display: none;
+}
+dialog::backdrop {
+  background: rgb(43 40 37 / 0.5);
+}
+dialog[open] {
+  animation: rise 250ms ease-out;
+}
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Rectangular buttons, as in the template. */
+/* Section titles: thin, minimal, lightly spaced capitals. */
+@utility title-thin {
+  @apply leading-tight font-light tracking-[0.12em] uppercase;
+}
+@utility btn {
+  @apply inline-flex min-h-11 items-center justify-center px-6 text-xs font-normal tracking-[0.2em] uppercase transition-colors duration-200;
+}
+@utility btn-white {
+  @apply btn bg-white text-ink hover:bg-sand;
+}
+@utility btn-sand {
+  @apply btn bg-wine text-white hover:bg-[#611820];
+}
+@utility btn-line {
+  @apply btn w-full border border-ink/70 text-ink hover:bg-ink hover:text-white;
+}
+/* Find us: framed, with the same soft mocha. */
+/* Accent button: dark brown, slightly transparent, white text. */
+@utility btn-mocha {
+  @apply btn border border-transparent bg-wine text-white hover:bg-[#611820];
+}
+/* Round arrow buttons in the same accent. */
+@utility btn-round {
+  @apply inline-flex size-11 items-center justify-center rounded-full bg-wine text-white transition-colors duration-200 hover:bg-[#611820];
+}
+/* Collagen ritual: the dusty rose of the CollaDrink pack. */
+@utility btn-rose {
+  @apply btn w-full bg-wine text-white hover:bg-[#611820];
+}
+
+/* Drink card: the price sits in a white tab cut into the panel's corner. */
+.drink-price {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-bottom-left-radius: 1rem;
+  background-color: #fff;
+  padding: 0.4rem 0.9rem 0.5rem;
+  font-size: 1rem;
+}
+.drink-price::before,
+.drink-price::after {
+  content: "";
+  position: absolute;
+  width: 1rem;
+  height: 1rem;
+  background: radial-gradient(circle at 0 100%, transparent 1rem, #fff 1rem);
+}
+.drink-price::before {
+  top: 0;
+  left: -1rem;
+}
+.drink-price::after {
+  right: 0;
+  bottom: -1rem;
+}
+
+/* Club card: rises in softly from the bottom right. */
+.club-in {
+  animation: club-in 300ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes club-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .club-in {
+    animation: none;
+  }
+}
+
+/* Members: a full-height rail on the left; the page moves over to make room. */
+@media (min-width: 64rem) {
+  html[data-member] body {
+    padding-left: 4rem;
+  }
+}
+
+/* Beauty box: a CSS 3D model of the Collavé mailer box, 24 × 15 × 7 cm (from the dieline).
+   --u is one centimetre on screen. */
+.bb-scene {
+  --u: 9.5px;
+  overflow: clip;
+  --L: calc(var(--u) * 24);
+  --W: calc(var(--u) * 15);
+  --H: calc(var(--u) * 7);
+  --board: #ece3d4;
+  --print: #442712;
+  perspective: 1700px;
+  height: calc(var(--u) * 40);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .bb-scene {
+    --u: 16px;
+  }
+}
+.bb-box {
+  position: relative;
+  width: var(--L);
+  height: var(--W);
+  transform-style: preserve-3d;
+  transform: translateY(calc(var(--u) * 6)) rotateX(40deg) rotateZ(var(--turn, -28deg));
+  transition: transform 180ms ease-out;
+}
+.bb-box > div,
+.bb-wall,
+.bb-lid,
+.bb-lip {
+  position: absolute;
+  transform-style: preserve-3d;
+}
+.bb-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+}
+.bb-shadow {
+  inset: -8%;
+  background: radial-gradient(closest-side, rgb(68 39 18 / 0.32), transparent);
+  filter: blur(10px);
+  transform: translateZ(-2px);
+}
+.bb-floor {
+  inset: 0;
+  background: #ddd0bc;
+}
+.bb-tissue {
+  position: absolute;
+  inset: 3.5%;
+  overflow: hidden;
+  font-size: var(--u);
+  background:
+    radial-gradient(120% 60% at 20% 30%, rgb(255 255 255 / 0.7), transparent 60%),
+    radial-gradient(90% 70% at 85% 80%, rgb(214 200 180 / 0.45), transparent 60%),
+    linear-gradient(115deg, #f9f6f1 0%, #f1ebe2 45%, #f8f4ee 55%, #efe8de 100%);
+  box-shadow: inset 0 0 calc(var(--u) * 1.4) rgb(120 90 60 / 0.22);
+}
+.bb-tissue-pattern {
+  position: absolute;
+  inset: -20%;
+  background: rgb(68 39 18 / 0.07);
+  transform: rotate(-12deg);
+}
+.bb-seal {
+  position: absolute;
+  inset: 40% 28%;
+  background: rgb(68 39 18 / 0.7);
+  transition: opacity 300ms ease;
+}
+.bb-item {
+  position: absolute;
+  width: calc(var(--L) * 0.93 / 3 - var(--u) * 1.4);
+  height: calc(var(--W) * 0.93 / 2 - var(--u) * 1.2);
+  left: calc(var(--L) * 0.035 + var(--col) * var(--L) * 0.93 / 3 + var(--u) * 0.7);
+  top: calc(var(--W) * 0.035 + var(--row) * var(--W) * 0.93 / 2 + var(--u) * 0.6);
+  overflow: hidden;
+  background: #e6e7e7;
+  border: calc(var(--u) * 0.3) solid #fff;
+  box-shadow: 0 calc(var(--u) * 0.5) calc(var(--u) * 0.9) rgb(68 39 18 / 0.3);
+  transform: translateZ(2px) rotateZ(var(--tilt));
+  animation: bb-drop 700ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+@keyframes bb-drop {
+  from {
+    opacity: 0;
+    transform: translateZ(calc(var(--H) * 4)) rotateZ(calc(var(--tilt) * 5));
+  }
+  50% {
+    opacity: 1;
+  }
+}
+/* Walls: the inside faces in, the printed outside faces out. */
+.bb-in {
+  background: linear-gradient(to top, #d4c5ae, #e7dcca);
+}
+.bb-out {
+  background: var(--board);
+  transform: rotateX(180deg);
+}
+.bb-back {
+  left: 0;
+  top: calc(var(--H) * -1);
+  width: var(--L);
+  height: var(--H);
+  transform-origin: bottom;
+  transform: rotateX(-90deg);
+}
+.bb-front {
+  left: 0;
+  top: 100%;
+  width: var(--L);
+  height: var(--H);
+  transform-origin: top;
+  transform: rotateX(90deg);
+}
+.bb-left {
+  top: 0;
+  left: calc(var(--H) * -1);
+  width: var(--H);
+  height: var(--W);
+  transform-origin: right;
+  transform: rotateY(90deg);
+}
+.bb-right {
+  top: 0;
+  left: 100%;
+  width: var(--H);
+  height: var(--W);
+  transform-origin: left;
+  transform: rotateY(-90deg);
+}
+.bb-left .bb-out,
+.bb-right .bb-out {
+  transform: rotateX(180deg);
+}
+.bb-left .bb-out {
+  background: #dfd4c3;
+}
+.bb-right .bb-out {
+  background: #e7ddcd;
+}
+.bb-print {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: calc(var(--u) * 0.6);
+}
+.bb-mark {
+  width: 42%;
+  aspect-ratio: 1926 / 817;
+  background: var(--print);
+}
+.bb-url {
+  color: var(--print);
+  font-size: calc(var(--u) * 0.85);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.bb-print-side .bb-mark {
+  width: calc(var(--W) * 0.55);
+  flex-shrink: 0;
+  transform: rotate(-90deg);
+}
+/* Lid: hinged on the back wall, open; its underside faces you. */
+.bb-lid {
+  left: 0;
+  top: 0;
+  width: var(--L);
+  height: var(--W);
+  transform-origin: top;
+  transform: translateZ(var(--H)) rotateX(112deg);
+}
+.bb-lid > .bb-in {
+  transform: rotateX(180deg);
+  background: linear-gradient(to bottom, #e9dfcf, #dcceb9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bb-lid > .bb-out {
+  transform: none;
+}
+.bb-lid-mark {
+  width: 22%;
+  opacity: 0.18;
+}
+.bb-lip {
+  left: 0;
+  top: 100%;
+  width: 100%;
+  height: calc(var(--H) * 0.9);
+  transform-origin: top;
+  transform: rotateX(-90deg);
+}
+@media (prefers-reduced-motion: reduce) {
+  .bb-item {
+    animation: none;
+  }
+  .bb-box {
+    transition: none;
+  }
+}
+
+/* On the dark brown footer, keyboard focus shows in white. */
+footer :focus-visible {
+  outline-color: #fff;
+}
+
+/* Hero snowfall: soft white flakes drifting down, paused for reduced motion. */
+.hero-snow {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+.hero-snow span {
+  position: absolute;
+  top: -1rem;
+  border-radius: 9999px;
+  background: #fff;
+  filter: blur(0.5px);
+  box-shadow: 0 0 6px rgb(255 255 255 / 0.6);
+  animation: hero-snowfall linear infinite;
+}
+@keyframes hero-snowfall {
+  0% { transform: translate3d(0, 0, 0); }
+  50% { transform: translate3d(var(--drift), 22rem, 0); }
+  100% { transform: translate3d(0, 46rem, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-snow { display: none; }
 }

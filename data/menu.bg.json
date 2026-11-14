@@ -1,0 +1,1950 @@
+{
+ "beauty": [
+  {
+   "id": "face",
+   "name": "Лице",
+   "items": [
+    {
+     "id": "collabalance-toner",
+     "name": "CollaBalance Toner",
+     "category": "face",
+     "subtitle": "Балансиращ и освежаващ тоник",
+     "size": "50 ml",
+     "price": 34.9,
+     "image": "/boutique/collabalance-toner-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Освежава",
+        "Балансира",
+        "Подготвя"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Кофеин",
+        "Пантенол",
+        "Хиалуронова киселина"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collabright-cream",
+     "name": "CollaBright Cream",
+     "category": "face",
+     "subtitle": "Крем за равномерен и сияен тен",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collabright-cream-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Озарява",
+        "Изравнява",
+        "Хидратира"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Зелен чай",
+        "Стволови клетки от ябълка",
+        "Витамин E"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaclean-mousse",
+     "name": "CollaClean Mousse",
+     "category": "face",
+     "subtitle": "Нежна почистваща пяна",
+     "size": "150 ml",
+     "price": 31.9,
+     "image": "/boutique/collaclean-mousse-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Почиства",
+        "Омекотява",
+        "Балансира"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Алое вера",
+        "Пантенол",
+        "Ниацинамид"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaclear-gel",
+     "name": "CollaClear Gel",
+     "category": "face",
+     "subtitle": "Активен гел за кожа с несъвършенства",
+     "size": "30 ml",
+     "price": 62.9,
+     "image": "/boutique/collaclear-gel-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Изчиства",
+        "Балансира",
+        "Матира"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Салицилова киселина",
+        "Цинк PCA",
+        "Хитозан"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaguard-spf-50-day-cream",
+     "name": "CollaGuard SPF 50 Day Cream",
+     "category": "face",
+     "subtitle": "Хидратиращ дневен крем SPF 50",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collaguard-spf-50-day-cream-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Защитава",
+        "Хидратира",
+        "Пази"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Стволови клетки от ябълка",
+        "Алое вера",
+        "Авобензон"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collaintense-serum",
+     "name": "CollaIntense Serum",
+     "category": "face",
+     "subtitle": "Интензивно хидратиращ серум",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collaintense-serum-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Хидратира",
+        "Изпълва",
+        "Изглажда"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Хиалуронова киселина",
+        "Натриев хиалуронат",
+        "Екстракт от джинджифил"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collakiss-lip-balm",
+     "name": "CollaKiss Lip Balm",
+     "category": "face",
+     "subtitle": "Подхранващ балсам за устни",
+     "size": "15 ml",
+     "price": null,
+     "image": "/boutique/collakiss-lip-balm-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Подхранва",
+        "Защитава",
+        "Омекотява"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Витамин E",
+        "Пчелен восък",
+        "Кокосово масло"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collalift-eye-gel",
+     "name": "CollaLift Eye Gel",
+     "category": "face",
+     "subtitle": "Стягащ гел за околоочния контур",
+     "size": "30 ml",
+     "price": 77.9,
+     "image": "/boutique/collalift-eye-gel-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Повдига",
+        "Освежава",
+        "Хидратира"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Кофеин",
+        "Пантенол",
+        "Хиалуронова киселина"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collalift-face-and-neck-gel",
+     "name": "CollaLift Face and Neck Gel",
+     "category": "face",
+     "subtitle": "Антиоксидантен гел за лице и шия",
+     "size": "30 ml",
+     "price": 79.9,
+     "image": "/boutique/collalift-face-and-neck-gel-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Стяга",
+        "Защитава",
+        "Озарява"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Витамин C",
+        "Хибискус",
+        "Стволови клетки от мъх"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collapure-zinc-serum",
+     "name": "CollaPure Zinc Serum",
+     "category": "face",
+     "subtitle": "Балансиращ серум с цинк",
+     "size": "30 ml",
+     "price": 77.9,
+     "image": "/boutique/collapure-zinc-serum-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Пречиства",
+        "Балансира",
+        "Изглажда"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Цинк PCA",
+        "Ниацинамид",
+        "Салицилова киселина"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarefresh-aloe-vera-spray",
+     "name": "CollaRefresh Aloe Vera Spray",
+     "category": "face",
+     "subtitle": "Освежаващ спрей за лице SPF 30",
+     "size": "50 ml",
+     "price": 44.9,
+     "image": "/boutique/collarefresh-aloe-vera-spray-spf-30-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Освежава",
+        "Хидратира",
+        "Защитава"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Екстракт от алое",
+        "Екстракт от бамбук",
+        "Авобензон"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarenew-retinol-serum",
+     "name": "CollaRenew Retinol Serum",
+     "category": "face",
+     "subtitle": "Нощен серум с ретинол",
+     "size": "30 ml",
+     "price": 79.9,
+     "image": "/boutique/collarenew-retinol-serum-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Изглажда",
+        "Обновява",
+        "Стяга"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Ретинол",
+        "Екстракт от коприва",
+        "Витамин E"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hair",
+   "name": "Коса",
+   "items": [
+    {
+     "id": "collahair-booster",
+     "name": "CollaHair Booster",
+     "category": "hair",
+     "subtitle": "Интензивен серум за здрава коса",
+     "size": "30 ml",
+     "price": 63.9,
+     "image": "/boutique/collahair-booster-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Укрепва",
+        "Подхранва",
+        "Съживява"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Алое вера",
+        "Екстракт от джинджифил",
+        "Натриев хиалуронат"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-leave-in-conditioner-spray",
+     "name": "CollaHair Leave-In Conditioner Spray",
+     "category": "hair",
+     "subtitle": "Балсам спрей без отмиване",
+     "size": "50 ml",
+     "price": 34.9,
+     "image": "/boutique/collahair-leave-in-conditioner-spray-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Укрепва",
+        "Омекотява",
+        "Разплита"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Кератин",
+        "Минерален комплекс",
+        "Поликватерниум-37"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-shampoo",
+     "name": "CollaHair Shampoo",
+     "category": "hair",
+     "subtitle": "Нежен шампоан без сулфати",
+     "size": "200 ml",
+     "price": 44.9,
+     "image": "/boutique/collahair-shampoo-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Почиства",
+        "Укрепва",
+        "Подхранва"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Пантенол",
+        "Коко бетаин",
+        "Маслинови липиди"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "name": "Тяло",
+   "items": [
+    {
+     "id": "collacalm-panthenol-gel",
+     "name": "CollaCalm Panthenol Gel",
+     "category": "body",
+     "subtitle": "Успокояващ гел с пантенол",
+     "size": "30 ml",
+     "price": 44.9,
+     "image": "/boutique/collacalm-panthenol-gel-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Успокоява",
+        "Хидратира",
+        "Възстановява"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Пантенол",
+        "Зелен чай",
+        "Стволови клетки от ябълка"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collapure-body-cream",
+     "name": "CollaPure Body Cream",
+     "category": "body",
+     "subtitle": "Балансиращ крем за кожа с несъвършенства",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collapure-body-cream-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Изчиства",
+        "Балансира",
+        "Матира"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Салицилова киселина",
+        "Цинк PCA",
+        "Екстракт от коприва"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collasculpt-caffeine-body-gel",
+     "name": "CollaSculpt Caffeine Body Gel",
+     "category": "body",
+     "subtitle": "Стягащ гел за тяло с кофеин и колаген",
+     "size": "150 ml",
+     "price": 59.9,
+     "image": "/boutique/collasculpt-caffeine-body-gel-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Оформя",
+        "Тонизира",
+        "Изглажда"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Кофеин",
+        "Хиалуронова киселина",
+        "Натриев хиалуронат"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collasoft-body-serum",
+     "name": "CollaSoft Body Serum",
+     "category": "body",
+     "subtitle": "Лек кадифен серум за тяло",
+     "size": "30 ml",
+     "price": 71.9,
+     "image": "/boutique/collasoft-body-serum-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Омекотява",
+        "Хидратира",
+        "Изглажда"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Пантенол",
+        "Алое вера",
+        "Екстракт от коприва"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "men",
+   "name": "За мъже",
+   "items": [
+    {
+     "id": "collaguard-spf-50-day-cream-men",
+     "name": "CollaGuard SPF 50 Day Cream",
+     "category": "men",
+     "subtitle": "Дневен крем SPF 50 за мъже",
+     "size": "30 ml",
+     "price": 59.9,
+     "image": "/boutique/collaguard-spf-50-day-cream-men-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Защитава",
+        "Хидратира",
+        "Пази"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Стволови клетки от ябълка",
+        "Алое вера",
+        "Авобензон"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collahair-booster-men",
+     "name": "CollaHair Booster",
+     "category": "men",
+     "subtitle": "Серум за здрава коса за мъже",
+     "size": "30 ml",
+     "price": 63.9,
+     "image": "/boutique/collahair-booster-men-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Укрепва",
+        "Съживява",
+        "Подхранва"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Алое вера",
+        "Екстракт от джинджифил",
+        "Натриев хиалуронат"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collarefresh-spf-30-aloe-vera-spray-men",
+     "name": "CollaRefresh SPF 30 Aloe Vera Spray",
+     "category": "men",
+     "subtitle": "Спрей за лице с алое вера SPF 30",
+     "size": "50 ml",
+     "price": 44.9,
+     "image": "/boutique/collarefresh-spf-30-aloe-vera-spray-men-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Освежава",
+        "Хидратира",
+        "Защитава"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Екстракт от алое",
+        "Екстракт от бамбук",
+        "Авобензон"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "collashave-panthenol-gel-men",
+     "name": "CollaShave Panthenol Gel",
+     "category": "men",
+     "subtitle": "Успокояващ гел след бръснене",
+     "size": "30 ml",
+     "price": 40.9,
+     "image": "/boutique/collashave-panthenol-gel-men-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Успокоява",
+        "Хидратира",
+        "Възстановява"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Пантенол",
+        "Зелен чай",
+        "Стволови клетки от ябълка"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "drinks",
+   "name": "Колагенови напитки",
+   "items": [
+    {
+     "id": "colladrink-collagen-powder",
+     "name": "CollaDrink Collagen Powder",
+     "category": "drinks",
+     "subtitle": "Колаген на прах за всеки ден",
+     "size": "300 g",
+     "price": 79.9,
+     "image": "/boutique/colladrink-beauty-collagen-powder-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Кожа",
+        "Коса",
+        "Нокти"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Колаген",
+        "ORAFTI® Synergy",
+        "Фолиева киселина"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "colladrink-collagen-powder-sachets",
+     "name": "CollaDrink Collagen Powder (Sachets)",
+     "category": "drinks",
+     "subtitle": "Колаген на прах в сашета",
+     "size": "30 × 10 g",
+     "price": 90,
+     "image": "/boutique/colladrink-beauty-collagen-sachets-2026.webp",
+     "details": [
+      {
+       "label": "Ползи",
+       "items": [
+        "Практично",
+        "Точно",
+        "Удобно"
+       ]
+      },
+      {
+       "label": "Ключови съставки",
+       "items": [
+        "Колаген",
+        "ORAFTI® Synergy",
+        "Фолиева киселина"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "drinks": [
+  {
+   "id": "classic",
+   "name": "Старата класика",
+   "items": [
+    {
+     "id": "almond-latte",
+     "name": "Almond Latte",
+     "category": "classic",
+     "subtitle": "Нежна бадемова сладост",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/almond-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Бадемов сироп · 20 ml",
+        "Прясно мляко · 200 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "americano",
+     "name": "Americano",
+     "category": "classic",
+     "subtitle": "Дълго, меко и леко",
+     "size": "150 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/americano.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Гореща вода · 120 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "cappuccino",
+     "name": "Cappuccino",
+     "category": "classic",
+     "subtitle": "Кремообразна класика",
+     "size": "250 ml",
+     "price": 3.5,
+     "image": "/menu/beverages/cappuccino.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Прясно мляко · 180 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "caramel-latte",
+     "name": "Caramel Latte",
+     "category": "classic",
+     "subtitle": "Сладък карамелен уют",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/caramel-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Карамелен сироп · 20 ml",
+        "Прясно мляко · 200 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "coconut-latte",
+     "name": "Coconut Latte",
+     "category": "classic",
+     "subtitle": "Копринено и тропическо",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/coconut-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Кокосов сироп · 20 ml",
+        "Прясно мляко · 200 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "decaf-espresso",
+     "name": "Decaf Espresso",
+     "category": "classic",
+     "subtitle": "Целият вкус, без кофеин",
+     "size": "30 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/decaf-espresso.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Безкофеиново еспресо · 7 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "double-espresso",
+     "name": "Double Espresso",
+     "category": "classic",
+     "subtitle": "Двойна наситеност",
+     "size": "60 ml",
+     "price": 3.2,
+     "image": "/menu/beverages/double-espresso.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "espresso",
+     "name": "Espresso",
+     "category": "classic",
+     "subtitle": "Кратко, плътно и чисто",
+     "size": "30 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/espresso.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо Pellini · 7 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "espresso-macchiato",
+     "name": "Espresso Macchiato",
+     "category": "classic",
+     "subtitle": "Еспресо с капка пяна",
+     "size": "50 ml",
+     "price": 2.5,
+     "image": "/menu/beverages/espresso-macchiato.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Млечна пяна · 20 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "hazelnut-latte",
+     "name": "Hazelnut Latte",
+     "category": "classic",
+     "subtitle": "Топло и ядково",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/hazelnut-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Сироп от лешник · 20 ml",
+        "Прясно мляко · 200 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "latte",
+     "name": "Latte",
+     "category": "classic",
+     "subtitle": "Нежно и млечно",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Прясно мляко · 220 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mocha",
+     "name": "Mocha",
+     "category": "classic",
+     "subtitle": "Кафе и шоколад",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/mocha.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Еспресо · 7 g",
+        "Какао · 15 g",
+        "Шоколадов сироп · 10 ml",
+        "Прясно мляко · 180 ml"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "tea",
+     "name": "Tea",
+     "category": "classic",
+     "subtitle": "Спокойствие в чаша",
+     "size": "200 ml",
+     "price": 3.4,
+     "image": "/menu/beverages/tea.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Чай Pellini (пакетче)",
+        "Гореща вода · 200 ml",
+        "Мед или захар"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iced",
+   "name": "Айс лате",
+   "items": [
+    {
+     "id": "freddo-cappuccino",
+     "name": "Freddo Cappuccino",
+     "category": "iced",
+     "subtitle": "Класиката със студена пяна",
+     "size": "250 ml",
+     "price": 4.2,
+     "image": "/menu/beverages/freddo-cappuccino.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Нискомаслено мляко (0,7%) · 120 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "freddo-espresso",
+     "name": "Freddo Espresso",
+     "category": "iced",
+     "subtitle": "Разбито, силно и студено",
+     "size": "160 ml",
+     "price": 3.5,
+     "image": "/menu/beverages/freddo-espresso.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Вода · 60 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-almond-latte",
+     "name": "Iced Almond Latte",
+     "category": "iced",
+     "subtitle": "Охладен бадем",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-almond-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Бадемов сироп · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-caramel-latte",
+     "name": "Iced Caramel Latte",
+     "category": "iced",
+     "subtitle": "Карамел с лед",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-caramel-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Карамелен сироп · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-coconut-latte",
+     "name": "Iced Coconut Latte",
+     "category": "iced",
+     "subtitle": "Тропически бриз",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-coconut-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Кокосов сироп · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-hazelnut-latte",
+     "name": "Iced Hazelnut Latte",
+     "category": "iced",
+     "subtitle": "Ядково и освежаващо",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-hazelnut-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Сироп от лешник · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-latte",
+     "name": "Iced Latte",
+     "category": "iced",
+     "subtitle": "Хладно и кремообразно",
+     "size": "250 ml",
+     "price": 4.2,
+     "image": "/menu/beverages/iced-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Прясно мляко · 150 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mango-latte",
+     "name": "Iced Mango Latte",
+     "category": "iced",
+     "subtitle": "Слънчево и плодово",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-mango-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Сироп или пюре от манго · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mocha",
+     "name": "Iced Mocha",
+     "category": "iced",
+     "subtitle": "Охладен шоколад",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-mocha.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Какао · 15 g",
+        "Шоколадов сироп · 10 ml",
+        "Прясно мляко · 100 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-strawberry-latte",
+     "name": "Iced Strawberry Latte",
+     "category": "iced",
+     "subtitle": "Розово и игриво",
+     "size": "250 ml",
+     "price": 5.4,
+     "image": "/menu/beverages/iced-strawberry-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Двойно еспресо · 14 g",
+        "Ягодов сироп или пюре · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "matcha",
+   "name": "Матча и Нескафе",
+   "items": [
+    {
+     "id": "black-frappe",
+     "name": "Black Frappe",
+     "category": "matcha",
+     "subtitle": "Разбито, черно и плътно",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/black-frappe.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Нескафе · 14 g",
+        "Сироп от черен шоколад · 20 ml",
+        "Вода · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-mango-matcha-latte",
+     "name": "Iced Mango Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Зелено и слънчево",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-mango-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Матча · 14 g",
+        "Сироп или пюре от манго · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-matcha-latte",
+     "name": "Iced Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Спокоен фокус и свежо сияние",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Матча · 14 g",
+        "Прясно мляко · 150 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-matcha-latte-with-banana-and-strawberry",
+     "name": "Iced Matcha Latte with Banana & Strawberry",
+     "category": "matcha",
+     "subtitle": "Плодово и кремообразно",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-matcha-latte-with-banana-and-strawberry.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Матча · 14 g",
+        "Пюре от банан и ягода · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "iced-strawberry-matcha-latte",
+     "name": "Iced Strawberry Matcha Latte",
+     "category": "matcha",
+     "subtitle": "Зелено и розово",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/iced-strawberry-matcha-latte.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Матча · 14 g",
+        "Ягодов сироп или пюре · 20 ml",
+        "Прясно мляко · 120 ml",
+        "Лед"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "nescafe-mocha",
+     "name": "Nescafé Mocha",
+     "category": "matcha",
+     "subtitle": "Шоколадово фрапе",
+     "size": "250 ml",
+     "price": 4.5,
+     "image": "/menu/beverages/nescafe-mocha.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Нескафе · 14 g",
+        "Сироп от черен шоколад · 20 ml",
+        "Кафява захар · 1 с.л.",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-frappe",
+     "name": "White Frappe",
+     "category": "matcha",
+     "subtitle": "Разбито, бяло и студено",
+     "size": "250 ml",
+     "price": 3.9,
+     "image": "/menu/beverages/white-frappe.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Нескафе · 14 g",
+        "Кафява захар · 1 с.л.",
+        "Прясно мляко · 120 ml",
+        "Лед · 80–100 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "smoothie",
+   "name": "Смутита и лимонади",
+   "items": [
+    {
+     "id": "blueberry-lemonade",
+     "name": "Blueberry Lemonade",
+     "category": "smoothie",
+     "subtitle": "Ярко и плодово",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/blueberry-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Пюре от боровинки · 30 ml",
+        "Лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 150 ml",
+        "Лед · 80 g",
+        "Боровинки за украса"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "classic-lemonade",
+     "name": "Classic Lemonade",
+     "category": "smoothie",
+     "subtitle": "Свежо и цитрусово",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/classic-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Пресен лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 150 ml",
+        "Лед · 80 g",
+        "Резенчета лайм"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mango-lemonade",
+     "name": "Mango Lemonade",
+     "category": "smoothie",
+     "subtitle": "Слънце в чаша",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/mango-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Пюре от манго · 30 ml",
+        "Лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 150 ml",
+        "Лед · 80 g",
+        "Кубчета манго за украса"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mango-smoothie",
+     "name": "Mango Smoothie",
+     "category": "smoothie",
+     "subtitle": "Тропическо и гладко",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/mango-smoothie.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Пюре от манго · 30 ml",
+        "Сироп от манго · 20 ml",
+        "Прясно или замразено манго · 50 g",
+        "Студено мляко · 80 ml",
+        "Лед · 70–80 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "mint-lemonade",
+     "name": "Mint Lemonade",
+     "category": "smoothie",
+     "subtitle": "Хладно и ментово",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/mint-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Свежа мента · 5 g",
+        "Лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 150 ml",
+        "Лед · 80 g",
+        "Листа мента за украса"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "peach-smoothie",
+     "name": "Peach Smoothie",
+     "category": "smoothie",
+     "subtitle": "Нежна лятна праскова",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/peach-smoothie.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Пюре от праскова · 80 ml",
+        "Праскова · 50 g",
+        "Студена вода · 40 ml",
+        "Лед · 80 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-banana-smoothie",
+     "name": "Strawberry & Banana Smoothie",
+     "category": "smoothie",
+     "subtitle": "Кремообразна енергия",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-and-banana-smoothie.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Банан · 50 g",
+        "Ягоди · 50 g",
+        "Ягодово пюре · 60 ml",
+        "Студена вода · 40 ml",
+        "Лед · 80 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-mango-lemonade",
+     "name": "Strawberry & Mango Lemonade",
+     "category": "smoothie",
+     "subtitle": "Плодово и газирано",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/strawberry-and-mango-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Ягодово пюре · 15 ml",
+        "Пюре от манго · 15 ml",
+        "Лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 120 ml",
+        "Лед · 80 g",
+        "Манго и ягода за украса"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-and-mango-smoothie",
+     "name": "Strawberry & Mango Smoothie",
+     "category": "smoothie",
+     "subtitle": "Най-доброто от двете",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-and-mango-smoothie.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Ягодово пюре · 40 ml",
+        "Пюре от манго · 40 ml",
+        "Ягоди · 25 g",
+        "Манго · 25 g",
+        "Студена вода · 40 ml",
+        "Лед · 70–80 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-lemonade",
+     "name": "Strawberry Lemonade",
+     "category": "smoothie",
+     "subtitle": "Розово и освежаващо",
+     "size": "250 ml",
+     "price": 4.9,
+     "image": "/menu/beverages/strawberry-lemonade.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Ягодово пюре · 30 ml",
+        "Лимонов сок · 15 ml",
+        "Захарен сироп · 10 ml",
+        "Газирана вода · 150 ml",
+        "Лед · 80 g",
+        "Ягоди за украса"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strawberry-smoothie",
+     "name": "Strawberry Smoothie",
+     "category": "smoothie",
+     "subtitle": "Сияние с витамин C",
+     "size": "250 ml",
+     "price": 6.9,
+     "image": "/menu/beverages/strawberry-smoothie.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Ягодово пюре · 30 ml",
+        "Ягодов сироп · 20 ml",
+        "Пресни или замразени ягоди · 50 g",
+        "Студено мляко · 80 ml",
+        "Лед · 70–80 g"
+       ]
+      },
+      {
+       "label": "Добавки",
+       "items": [
+        "Collavé Beauty Collagen · 10 г · От нас",
+        "Алтернативно мляко · 120 мл · +0,90 €",
+        "Допълнителен сироп или пюре · 20 мл · +0,90 €"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "waters",
+   "name": "Води",
+   "items": [
+    {
+     "id": "thai-coco-coconut-water",
+     "name": "Кокосова вода Thai Coco",
+     "category": "waters",
+     "subtitle": "100% кокосова вода, не от концентрат",
+     "size": "280 ml",
+     "price": 3,
+     "image": "/menu/beverages/thai-coco-coconut-water.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "100% кокосова вода"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "thai-coco-organic-coconut-water",
+     "name": "Органична кокосова вода Thai Coco",
+     "category": "waters",
+     "subtitle": "Органична, без добавена захар",
+     "size": "330 ml",
+     "price": 3,
+     "image": "/menu/beverages/thai-coco-organic-coconut-water.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Органична кокосова вода"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-water-sparkling",
+     "name": "White Water газирана",
+     "category": "waters",
+     "subtitle": "Газирана минерална вода, pH 9,56",
+     "size": "330 ml",
+     "price": 2.2,
+     "image": "/menu/beverages/white-water-sparkling.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Газирана минерална вода"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "white-water-still",
+     "name": "White Water негазирана",
+     "category": "waters",
+     "subtitle": "Натурална минерална вода, pH 9,56",
+     "size": "330 ml",
+     "price": 1.9,
+     "image": "/menu/beverages/white-water-still.jpg",
+     "details": [
+      {
+       "label": "Какво съдържа",
+       "items": [
+        "Натурална минерална вода"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
